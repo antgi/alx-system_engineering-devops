@@ -1,1 +1,1 @@
-Shell redirections readme
+This is networking basic project.
